@@ -1,5 +1,5 @@
 # TASK MANAGER
-
+(This Use case is taken from [Spring boot crash course](https://www.scaler.com/topics/course/java-spring-boot-blogging-app/))
 ## Problem Statement
 Design and develop an in memory (*NO DATABASE*) web application for managing personal tasks and notes within a given task.
 
